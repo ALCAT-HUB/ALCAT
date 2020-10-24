@@ -1,0 +1,24 @@
+{
+  "name": "muhvuepress",
+  "version": "1.0.0",
+  "description": "---\r home: true\r heroImage: /images/angrynoobcartoon (1).svg\r heroText: Hero Title\r tagline: Hero subtitle\r actionText: Get Started →\r actionLink: /intro/\r features:\r - title: Simplicity First\r   details: Minimal setup with markdown-centered project structure helps you focus on writing.\r - title: Vue-Powered\r   details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.\r - title: Performant\r   details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.\r footer: MIT Licensed | Copyright © 2018-present Evan You\r ---",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALCAT-HUB/ALCAT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALCAT-HUB/ALCAT/issues"
+  },
+  "homepage": "https://github.com/ALCAT-HUB/ALCAT#readme"
+}
